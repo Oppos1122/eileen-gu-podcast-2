@@ -10,7 +10,7 @@
 <itunes:type>episodic</itunes:type>
 <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast/master/rss.xml" rel="self" type="application/rss+xml"/>
-<itunes:image href="https://files.catbox.moe/9phepl.jpg"/>
+<itunes:image href="https://oppos1122.github.io/eileen-gu-podcast-2/cover.jpg"/>
 <itunes:category text="Sports"/>
 <itunes:category text="Society &amp; Culture"><itunes:category text="Personal Journals"/></itunes:category>
 <itunes:owner><itunes:name>Eileen Gu Collection</itunes:name><itunes:email>rebeccca051@163.com</itunes:email></itunes:owner>
