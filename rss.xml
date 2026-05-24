@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>谷爱凌：英文访谈与演讲</title>
 <link>https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/rss.xml</link>
@@ -9,17 +9,17 @@
 <itunes:summary>收录谷爱凌历次英文采访、新闻发布会、主题演讲及Everyday Eileen纪录片音频。</itunes:summary>
 <itunes:type>episodic</itunes:type>
 <itunes:explicit>no</itunes:explicit>
-    <atom:link href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/rss.xml" rel="self" type="application/rss+xml"/>
-<itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/cover.jpg"/>
-<itunes:category text="Sports"/>
-<itunes:category text="Society &amp; Culture"><itunes:category text="Personal Journals"/></itunes:category>
+    <atom:link href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/rss.xml" rel="self" type="application/rss+xml" />
+<itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/cover.jpg" />
+<itunes:category text="Sports" />
+<itunes:category text="Society &amp; Culture"><itunes:category text="Personal Journals" /></itunes:category>
 <itunes:owner><itunes:name>Eileen Gu Collection</itunes:name><itunes:email>rebeccca051@163.com</itunes:email></itunes:owner>
 
     <item>
         <title>GoldGala影响力大奖</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/t2J4hJqN1Ek.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/t2J4hJqN1Ek.jpg" />
         <description>谷爱凌 · 颁奖 · 2026-05-21</description>
-        <enclosure url="https://files.catbox.moe/idc4k2.mp3" length="7905930" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2026-05-21_%E9%A2%81%E5%A5%96_GoldGala%E5%BD%B1%E5%93%8D%E5%8A%9B%E5%A4%A7%E5%A5%96_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="7905930" type="audio/mpeg" />
         <guid isPermaLink="false">2026-05-21_颁奖_GoldGala影响力大奖_谷爱凌.mp3</guid>
         <pubDate>Thu, 21 May 2026 04:00:00 -0000</pubDate>
         <itunes:duration>8:14</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -27,9 +27,9 @@
 
     <item>
         <title>主题演讲</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/-URn1fARvts.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/-URn1fARvts.jpg" />
         <description>谷爱凌 · 演讲 · 2026-03-07</description>
-        <enclosure url="https://files.catbox.moe/8m89z8.mp3" length="9376650" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2026-03-07_%E6%BC%94%E8%AE%B2_%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="13009581" type="audio/mpeg" />
         <guid isPermaLink="false">2026-03-07_演讲_主题演讲_谷爱凌.mp3</guid>
         <pubDate>Sat, 07 Mar 2026 04:00:00 -0000</pubDate>
         <itunes:duration>9:46</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -37,9 +37,9 @@
 
     <item>
         <title>与AlysaLiu对话</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/w1PEZm-Qr5c.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/w1PEZm-Qr5c.jpg" />
         <description>谷爱凌 · 访谈 · 2026-02-24</description>
-        <enclosure url="https://files.catbox.moe/32wzul.mp3" length="5259018" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2026-02-24_%E8%AE%BF%E8%B0%88_%E4%B8%8EAlysaLiu%E5%AF%B9%E8%AF%9D_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="5259018" type="audio/mpeg" />
         <guid isPermaLink="false">2026-02-24_访谈_与AlysaLiu对话_谷爱凌.mp3</guid>
         <pubDate>Tue, 24 Feb 2026 04:00:00 -0000</pubDate>
         <itunes:duration>5:28</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -47,9 +47,9 @@
 
     <item>
         <title>U型场地夺金</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/mdiIcy1J6Uo.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/mdiIcy1J6Uo.jpg" />
         <description>谷爱凌 · 赛事 · 2026-02-24</description>
-        <enclosure url="https://files.catbox.moe/voumou.mp3" length="3638538" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2026-02-24_%E8%B5%9B%E4%BA%8B_U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%A4%BA%E9%87%91_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="3638538" type="audio/mpeg" />
         <guid isPermaLink="false">2026-02-24_赛事_U型场地夺金_谷爱凌.mp3</guid>
         <pubDate>Tue, 24 Feb 2026 04:00:00 -0000</pubDate>
         <itunes:duration>3:47</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -57,9 +57,9 @@
 
     <item>
         <title>🥇🇨🇳GuAilingfacesmediainMi</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/4VxI-1jt7bc.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/4VxI-1jt7bc.jpg" />
         <description>谷爱凌 · 其他 · 2026-02-23</description>
-        <enclosure url="https://files.catbox.moe/o5ltyh.mp3" length="5739402" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2026-02-23_%E5%85%B6%E4%BB%96_%F0%9F%A5%87%F0%9F%87%A8%F0%9F%87%B3GuAilingfacesmediainMi_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="5739402" type="audio/mpeg" />
         <guid isPermaLink="false">2026-02-23_其他_🥇🇨🇳GuAilingfacesmediainMi_谷爱凌.mp3</guid>
         <pubDate>Mon, 23 Feb 2026 04:00:00 -0000</pubDate>
         <itunes:duration>5:58</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -67,9 +67,9 @@
 
     <item>
         <title>新闻发布会</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/b-m2DntVdQU.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/b-m2DntVdQU.jpg" />
         <description>谷爱凌 · 赛事 · 2026-02-23</description>
-        <enclosure url="https://files.catbox.moe/kmogah.mp3" length="11174922" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2026-02-23_%E8%B5%9B%E4%BA%8B_%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="11174922" type="audio/mpeg" />
         <guid isPermaLink="false">2026-02-23_赛事_新闻发布会_谷爱凌.mp3</guid>
         <pubDate>Mon, 23 Feb 2026 04:00:00 -0000</pubDate>
         <itunes:duration>11:38</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -77,9 +77,9 @@
 
     <item>
         <title>第三文化孩子成长</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/rKTzkm9c0c4.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/rKTzkm9c0c4.jpg" />
         <description>谷爱凌 · 访谈 · 2026-02-13</description>
-        <enclosure url="https://files.catbox.moe/0j30cb.mp3" length="2939658" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2026-02-13_%E8%AE%BF%E8%B0%88_%E7%AC%AC%E4%B8%89%E6%96%87%E5%8C%96%E5%AD%A9%E5%AD%90%E6%88%90%E9%95%BF_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="2939658" type="audio/mpeg" />
         <guid isPermaLink="false">2026-02-13_访谈_第三文化孩子成长_谷爱凌.mp3</guid>
         <pubDate>Fri, 13 Feb 2026 04:00:00 -0000</pubDate>
         <itunes:duration>3:03</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -87,9 +87,9 @@
 
     <item>
         <title>FreestyleSkierEileenGuCele</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/bosflmvmmyk.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/bosflmvmmyk.jpg" />
         <description>谷爱凌 · 其他 · 2026-02-10</description>
-        <enclosure url="https://files.catbox.moe/x3bu5w.mp3" length="5019018" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2026-02-10_%E5%85%B6%E4%BB%96_FreestyleSkierEileenGuCele_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="5019018" type="audio/mpeg" />
         <guid isPermaLink="false">2026-02-10_其他_FreestyleSkierEileenGuCele_谷爱凌.mp3</guid>
         <pubDate>Tue, 10 Feb 2026 04:00:00 -0000</pubDate>
         <itunes:duration>5:13</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -97,9 +97,9 @@
 
     <item>
         <title>MeetNow深度访谈</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/R1GAO4yJoXg.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/R1GAO4yJoXg.jpg" />
         <description>谷爱凌 · 访谈 · 2026-01-28</description>
-        <enclosure url="https://files.catbox.moe/w0js1p.mp3" length="14800650" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2026-01-28_%E8%AE%BF%E8%B0%88_MeetNow%E6%B7%B1%E5%BA%A6%E8%AE%BF%E8%B0%88_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="14800650" type="audio/mpeg" />
         <guid isPermaLink="false">2026-01-28_访谈_MeetNow深度访谈_谷爱凌.mp3</guid>
         <pubDate>Wed, 28 Jan 2026 04:00:00 -0000</pubDate>
         <itunes:duration>15:25</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -107,9 +107,9 @@
 
     <item>
         <title>崛起之路</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/BVzP_NXZowM.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/BVzP_NXZowM.jpg" />
         <description>谷爱凌 · 纪录片 · 2026-01-23</description>
-        <enclosure url="https://files.catbox.moe/yo99dv.mp3" length="13094538" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2026-01-23_%E7%BA%AA%E5%BD%95%E7%89%87_%E5%B4%9B%E8%B5%B7%E4%B9%8B%E8%B7%AF_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="13094538" type="audio/mpeg" />
         <guid isPermaLink="false">2026-01-23_纪录片_崛起之路_谷爱凌.mp3</guid>
         <pubDate>Fri, 23 Jan 2026 04:00:00 -0000</pubDate>
         <itunes:duration>13:38</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -117,9 +117,9 @@
 
     <item>
         <title>体坛周报专访</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/5yb8JQkYk5Y.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/5yb8JQkYk5Y.jpg" />
         <description>谷爱凌 · 访谈 · 2025-12-15</description>
-        <enclosure url="https://files.catbox.moe/zdcndu.mp3" length="11826186" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2025-12-15_%E8%AE%BF%E8%B0%88_%E4%BD%93%E5%9D%9B%E5%91%A8%E6%8A%A5%E4%B8%93%E8%AE%BF_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="11826186" type="audio/mpeg" />
         <guid isPermaLink="false">2025-12-15_访谈_体坛周报专访_谷爱凌.mp3</guid>
         <pubDate>Mon, 15 Dec 2025 04:00:00 -0000</pubDate>
         <itunes:duration>12:19</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -127,9 +127,9 @@
 
     <item>
         <title>北京日常OFFDAY</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/_RmQ7RFiTdo.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/_RmQ7RFiTdo.jpg" />
         <description>谷爱凌 · 生活 · 2025-11-07</description>
-        <enclosure url="https://files.catbox.moe/y4pokf.mp3" length="14127498" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2025-11-07_%E7%94%9F%E6%B4%BB_%E5%8C%97%E4%BA%AC%E6%97%A5%E5%B8%B8OFFDAY_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="14127498" type="audio/mpeg" />
         <guid isPermaLink="false">2025-11-07_生活_北京日常OFFDAY_谷爱凌.mp3</guid>
         <pubDate>Fri, 07 Nov 2025 04:00:00 -0000</pubDate>
         <itunes:duration>14:42</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -137,9 +137,9 @@
 
     <item>
         <title>深度访谈跨文化成长</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/5sPAyKrk0-s.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/5sPAyKrk0-s.jpg" />
         <description>谷爱凌 · 访谈 · 2025-06-12</description>
-        <enclosure url="https://files.catbox.moe/v8v6nv.mp3" length="35524362" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2025-06-12_%E8%AE%BF%E8%B0%88_%E6%B7%B1%E5%BA%A6%E8%AE%BF%E8%B0%88%E8%B7%A8%E6%96%87%E5%8C%96%E6%88%90%E9%95%BF_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="35524362" type="audio/mpeg" />
         <guid isPermaLink="false">2025-06-12_访谈_深度访谈跨文化成长_谷爱凌.mp3</guid>
         <pubDate>Thu, 12 Jun 2025 04:00:00 -0000</pubDate>
         <itunes:duration>37:00</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -147,9 +147,9 @@
 
     <item>
         <title>CGTN欧洲独家专访</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/MDNIxwojv9Y.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/MDNIxwojv9Y.jpg" />
         <description>谷爱凌 · 访谈 · 2024-08-05</description>
-        <enclosure url="https://files.catbox.moe/jy991k.mp3" length="5014410" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2024-08-05_%E8%AE%BF%E8%B0%88_CGTN%E6%AC%A7%E6%B4%B2%E7%8B%AC%E5%AE%B6%E4%B8%93%E8%AE%BF_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="5014410" type="audio/mpeg" />
         <guid isPermaLink="false">2024-08-05_访谈_CGTN欧洲独家专访_谷爱凌.mp3</guid>
         <pubDate>Mon, 05 Aug 2024 04:00:00 -0000</pubDate>
         <itunes:duration>5:13</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -157,9 +157,9 @@
 
     <item>
         <title>世界发展论坛演讲</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/TZnanNRhNu8.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/TZnanNRhNu8.jpg" />
         <description>谷爱凌 · 论坛 · 2024-04-14</description>
-        <enclosure url="https://files.catbox.moe/eteyd6.mp3" length="9938442" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2024-04-14_%E8%AE%BA%E5%9D%9B_%E4%B8%96%E7%95%8C%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B%E6%BC%94%E8%AE%B2_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="9938442" type="audio/mpeg" />
         <guid isPermaLink="false">2024-04-14_论坛_世界发展论坛演讲_谷爱凌.mp3</guid>
         <pubDate>Sun, 14 Apr 2024 04:00:00 -0000</pubDate>
         <itunes:duration>10:21</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -167,9 +167,9 @@
 
     <item>
         <title>OlympicChampionEileenGuSpe</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/whAIkl7gu5I.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/whAIkl7gu5I.jpg" />
         <description>谷爱凌 · 其他 · 2024-04-05</description>
-        <enclosure url="https://files.catbox.moe/dk5ije.mp3" length="8746122" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2024-04-05_%E5%85%B6%E4%BB%96_OlympicChampionEileenGuSpe_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="8746122" type="audio/mpeg" />
         <guid isPermaLink="false">2024-04-05_其他_OlympicChampionEileenGuSpe_谷爱凌.mp3</guid>
         <pubDate>Fri, 05 Apr 2024 04:00:00 -0000</pubDate>
         <itunes:duration>9:06</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -177,9 +177,9 @@
 
     <item>
         <title>SpiritOfSport奥运冠军</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/RTW1EfppDok.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/RTW1EfppDok.jpg" />
         <description>谷爱凌 · 访谈 · 2023-10-24</description>
-        <enclosure url="https://files.catbox.moe/qdocst.mp3" length="5004426" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2023-10-24_%E8%AE%BF%E8%B0%88_SpiritOfSport%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="5004426" type="audio/mpeg" />
         <guid isPermaLink="false">2023-10-24_访谈_SpiritOfSport奥运冠军_谷爱凌.mp3</guid>
         <pubDate>Tue, 24 Oct 2023 04:00:00 -0000</pubDate>
         <itunes:duration>5:12</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -187,9 +187,9 @@
 
     <item>
         <title>成长专访16-19岁</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/iL0JZnuauQA.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/iL0JZnuauQA.jpg" />
         <description>谷爱凌 · 访谈 · 2023-05-10</description>
-        <enclosure url="https://files.catbox.moe/yaqys9.mp3" length="5164170" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2023-05-10_%E8%AE%BF%E8%B0%88_%E6%88%90%E9%95%BF%E4%B8%93%E8%AE%BF16-19%E5%B2%81_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="5164170" type="audio/mpeg" />
         <guid isPermaLink="false">2023-05-10_访谈_成长专访16-19岁_谷爱凌.mp3</guid>
         <pubDate>Wed, 10 May 2023 04:00:00 -0000</pubDate>
         <itunes:duration>5:22</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -197,9 +197,9 @@
 
     <item>
         <title>童年采访</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/iSMv5D1SP7A.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/iSMv5D1SP7A.jpg" />
         <description>谷爱凌 · 访谈 · 2023-02-13</description>
-        <enclosure url="https://files.catbox.moe/60qsu7.mp3" length="3580554" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2023-02-13_%E8%AE%BF%E8%B0%88_%E7%AB%A5%E5%B9%B4%E9%87%87%E8%AE%BF_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="3580554" type="audio/mpeg" />
         <guid isPermaLink="false">2023-02-13_访谈_童年采访_谷爱凌.mp3</guid>
         <pubDate>Mon, 13 Feb 2023 04:00:00 -0000</pubDate>
         <itunes:duration>3:43</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -207,9 +207,9 @@
 
     <item>
         <title>平衡牺牲与职业精神</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/LaOYrF3JsAI.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/LaOYrF3JsAI.jpg" />
         <description>谷爱凌 · 访谈 · 2023-01-27</description>
-        <enclosure url="https://files.catbox.moe/p416ut.mp3" length="3286794" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2023-01-27_%E8%AE%BF%E8%B0%88_%E5%B9%B3%E8%A1%A1%E7%89%BA%E7%89%B2%E4%B8%8E%E8%81%8C%E4%B8%9A%E7%B2%BE%E7%A5%9E_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="3286794" type="audio/mpeg" />
         <guid isPermaLink="false">2023-01-27_访谈_平衡牺牲与职业精神_谷爱凌.mp3</guid>
         <pubDate>Fri, 27 Jan 2023 04:00:00 -0000</pubDate>
         <itunes:duration>3:25</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -217,9 +217,9 @@
 
     <item>
         <title>CCTV冰雪之巅纪录片</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/XWZ5y_Ymkek.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/XWZ5y_Ymkek.jpg" />
         <description>谷爱凌 · 纪录片 · 2022-09-30</description>
-        <enclosure url="https://files.catbox.moe/3etgaa.mp3" length="12193290" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-09-30_%E7%BA%AA%E5%BD%95%E7%89%87_CCTV%E5%86%B0%E9%9B%AA%E4%B9%8B%E5%B7%85%E7%BA%AA%E5%BD%95%E7%89%87_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="12193290" type="audio/mpeg" />
         <guid isPermaLink="false">2022-09-30_纪录片_CCTV冰雪之巅纪录片_谷爱凌.mp3</guid>
         <pubDate>Fri, 30 Sep 2022 04:00:00 -0000</pubDate>
         <itunes:duration>12:42</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -227,9 +227,9 @@
 
     <item>
         <title>最大考验非滑雪</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/q8uRkTaRDMo.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/q8uRkTaRDMo.jpg" />
         <description>谷爱凌 · 访谈 · 2022-09-20</description>
-        <enclosure url="https://files.catbox.moe/2tassp.mp3" length="3853194" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-09-20_%E8%AE%BF%E8%B0%88_%E6%9C%80%E5%A4%A7%E8%80%83%E9%AA%8C%E9%9D%9E%E6%BB%91%E9%9B%AA_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="3853194" type="audio/mpeg" />
         <guid isPermaLink="false">2022-09-20_访谈_最大考验非滑雪_谷爱凌.mp3</guid>
         <pubDate>Tue, 20 Sep 2022 04:00:00 -0000</pubDate>
         <itunes:duration>4:00</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -237,9 +237,9 @@
 
     <item>
         <title>ESPY最佳突破运动员奖</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/B5uuYaVGe68.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/B5uuYaVGe68.jpg" />
         <description>谷爱凌 · 颁奖 · 2022-07-21</description>
-        <enclosure url="https://files.catbox.moe/t9p339.mp3" length="2001162" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-07-21_%E9%A2%81%E5%A5%96_ESPY%E6%9C%80%E4%BD%B3%E7%AA%81%E7%A0%B4%E8%BF%90%E5%8A%A8%E5%91%98%E5%A5%96_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="2001162" type="audio/mpeg" />
         <guid isPermaLink="false">2022-07-21_颁奖_ESPY最佳突破运动员奖_谷爱凌.mp3</guid>
         <pubDate>Thu, 21 Jul 2022 04:00:00 -0000</pubDate>
         <itunes:duration>2:05</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -247,9 +247,9 @@
 
     <item>
         <title>谷爱凌×AspenIdeasFestival：重塑体</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/a_jXgiSUAcs.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/a_jXgiSUAcs.jpg" />
         <description>谷爱凌 · 其他 · 2022-06-29</description>
-        <enclosure url="https://files.catbox.moe/pf9wbe.mp3" length="55809546" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-06-29_%E5%85%B6%E4%BB%96_%E8%B0%B7%E7%88%B1%E5%87%8C%C3%97AspenIdeasFestival%EF%BC%9A%E9%87%8D%E5%A1%91%E4%BD%93_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="55809546" type="audio/mpeg" />
         <guid isPermaLink="false">2022-06-29_其他_谷爱凌×AspenIdeasFestival：重塑体_谷爱凌.mp3</guid>
         <pubDate>Wed, 29 Jun 2022 04:00:00 -0000</pubDate>
         <itunes:duration>58:08</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -257,9 +257,9 @@
 
     <item>
         <title>用奥运凝聚世界</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/51_c6K9Wg9s.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/51_c6K9Wg9s.jpg" />
         <description>谷爱凌 · 励志 · 2022-06-09</description>
-        <enclosure url="https://files.catbox.moe/ihvjqu.mp3" length="1174410" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-06-09_%E5%8A%B1%E5%BF%97_%E7%94%A8%E5%A5%A5%E8%BF%90%E5%87%9D%E8%81%9A%E4%B8%96%E7%95%8C_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="1174410" type="audio/mpeg" />
         <guid isPermaLink="false">2022-06-09_励志_用奥运凝聚世界_谷爱凌.mp3</guid>
         <pubDate>Thu, 09 Jun 2022 04:00:00 -0000</pubDate>
         <itunes:duration>1:13</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -267,9 +267,9 @@
 
     <item>
         <title>TIME100峰会访谈</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/M1jcoCdwBpE.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/M1jcoCdwBpE.jpg" />
         <description>谷爱凌 · 访谈 · 2022-06-07</description>
-        <enclosure url="https://files.catbox.moe/cw638x.mp3" length="13827978" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-06-07_%E8%AE%BF%E8%B0%88_TIME100%E5%B3%B0%E4%BC%9A%E8%AE%BF%E8%B0%88_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="13827978" type="audio/mpeg" />
         <guid isPermaLink="false">2022-06-07_访谈_TIME100峰会访谈_谷爱凌.mp3</guid>
         <pubDate>Tue, 07 Jun 2022 04:00:00 -0000</pubDate>
         <itunes:duration>14:24</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -277,9 +277,9 @@
 
     <item>
         <title>espnW女性体育峰会演讲</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/dWfrDxm2ldg.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/dWfrDxm2ldg.jpg" />
         <description>谷爱凌 · 论坛 · 2022-05-05</description>
-        <enclosure url="https://files.catbox.moe/0mqacc.mp3" length="9227658" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-05-05_%E8%AE%BA%E5%9D%9B_espnW%E5%A5%B3%E6%80%A7%E4%BD%93%E8%82%B2%E5%B3%B0%E4%BC%9A%E6%BC%94%E8%AE%B2_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="9227658" type="audio/mpeg" />
         <guid isPermaLink="false">2022-05-05_论坛_espnW女性体育峰会演讲_谷爱凌.mp3</guid>
         <pubDate>Thu, 05 May 2022 04:00:00 -0000</pubDate>
         <itunes:duration>9:36</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -287,9 +287,9 @@
 
     <item>
         <title>EileenGuReflectsOn2022Oly</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/0DtFP8WR1vs.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/0DtFP8WR1vs.jpg" />
         <description>谷爱凌 · 其他 · 2022-05-04</description>
-        <enclosure url="https://files.catbox.moe/ynst10.mp3" length="5192586" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-05-04_%E5%85%B6%E4%BB%96_EileenGuReflectsOn2022Oly_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="5192586" type="audio/mpeg" />
         <guid isPermaLink="false">2022-05-04_其他_EileenGuReflectsOn2022Oly_谷爱凌.mp3</guid>
         <pubDate>Wed, 04 May 2022 04:00:00 -0000</pubDate>
         <itunes:duration>5:24</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -297,9 +297,9 @@
 
     <item>
         <title>中国冰雪之夜演讲+演奏</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/vW4SQ_44WRc.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/vW4SQ_44WRc.jpg" />
         <description>谷爱凌 · 演讲 · 2022-04-24</description>
-        <enclosure url="https://files.catbox.moe/b2urfn.mp3" length="7138698" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-04-24_%E6%BC%94%E8%AE%B2_%E4%B8%AD%E5%9B%BD%E5%86%B0%E9%9B%AA%E4%B9%8B%E5%A4%9C%E6%BC%94%E8%AE%B2%2B%E6%BC%94%E5%A5%8F_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="7138698" type="audio/mpeg" />
         <guid isPermaLink="false">2022-04-24_演讲_中国冰雪之夜演讲+演奏_谷爱凌.mp3</guid>
         <pubDate>Sun, 24 Apr 2022 04:00:00 -0000</pubDate>
         <itunes:duration>7:26</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -307,9 +307,9 @@
 
     <item>
         <title>冬奥倒计时100天直播</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/-GoIr41pNqc.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/-GoIr41pNqc.jpg" />
         <description>谷爱凌 · 直播 · 2022-04-24</description>
-        <enclosure url="https://files.catbox.moe/jzqocv.mp3" length="10896522" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-04-24_%E7%9B%B4%E6%92%AD_%E5%86%AC%E5%A5%A5%E5%80%92%E8%AE%A1%E6%97%B6100%E5%A4%A9%E7%9B%B4%E6%92%AD_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="10896522" type="audio/mpeg" />
         <guid isPermaLink="false">2022-04-24_直播_冬奥倒计时100天直播_谷爱凌.mp3</guid>
         <pubDate>Sun, 24 Apr 2022 04:00:00 -0000</pubDate>
         <itunes:duration>11:21</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -317,9 +317,9 @@
 
     <item>
         <title>英文访谈</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/iSMv5D1SP7A.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/iSMv5D1SP7A.jpg" />
         <description>谷爱凌 · 访谈 · 2022-03-30</description>
-        <enclosure url="https://files.catbox.moe/8utjor.mp3" length="19932810" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-03-30_%E8%AE%BF%E8%B0%88_%E8%8B%B1%E6%96%87%E8%AE%BF%E8%B0%88_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="19932810" type="audio/mpeg" />
         <guid isPermaLink="false">2022-03-30_访谈_英文访谈_谷爱凌.mp3</guid>
         <pubDate>Wed, 30 Mar 2022 04:00:00 -0000</pubDate>
         <itunes:duration>20:45</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -327,9 +327,9 @@
 
     <item>
         <title>新闻发布会③创历史</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/iUj818tzi0s.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/iUj818tzi0s.jpg" />
         <description>谷爱凌 · 冬奥 · 2022-02-19</description>
-        <enclosure url="https://files.catbox.moe/imfku4.mp3" length="1451658" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-02-19_%E5%86%AC%E5%A5%A5_%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E2%91%A2%E5%88%9B%E5%8E%86%E5%8F%B2_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="1451658" type="audio/mpeg" />
         <guid isPermaLink="false">2022-02-19_冬奥_新闻发布会③创历史_谷爱凌.mp3</guid>
         <pubDate>Sat, 19 Feb 2022 04:00:00 -0000</pubDate>
         <itunes:duration>1:30</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -337,9 +337,9 @@
 
     <item>
         <title>恐惧驱使我前进</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/VbhUxaaZhLc.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/VbhUxaaZhLc.jpg" />
         <description>谷爱凌 · 励志 · 2022-02-18</description>
-        <enclosure url="https://files.catbox.moe/v3g2rf.mp3" length="4379274" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-02-18_%E5%8A%B1%E5%BF%97_%E6%81%90%E6%83%A7%E9%A9%B1%E4%BD%BF%E6%88%91%E5%89%8D%E8%BF%9B_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="4379274" type="audio/mpeg" />
         <guid isPermaLink="false">2022-02-18_励志_恐惧驱使我前进_谷爱凌.mp3</guid>
         <pubDate>Fri, 18 Feb 2022 04:00:00 -0000</pubDate>
         <itunes:duration>4:33</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -347,9 +347,9 @@
 
     <item>
         <title>新闻发布会②回应记者</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/bmjdtMIKlgI.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/bmjdtMIKlgI.jpg" />
         <description>谷爱凌 · 冬奥 · 2022-02-15</description>
-        <enclosure url="https://files.catbox.moe/h4du6b.mp3" length="3084810" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-02-15_%E5%86%AC%E5%A5%A5_%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E2%91%A1%E5%9B%9E%E5%BA%94%E8%AE%B0%E8%80%85_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="3084810" type="audio/mpeg" />
         <guid isPermaLink="false">2022-02-15_冬奥_新闻发布会②回应记者_谷爱凌.mp3</guid>
         <pubDate>Tue, 15 Feb 2022 04:00:00 -0000</pubDate>
         <itunes:duration>3:12</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -357,9 +357,9 @@
 
     <item>
         <title>12岁女性体育演讲</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/8rheAb1Qge8.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/8rheAb1Qge8.jpg" />
         <description>谷爱凌 · 演讲 · 2022-02-12</description>
-        <enclosure url="https://files.catbox.moe/n8gbu6.mp3" length="6382602" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-02-12_%E6%BC%94%E8%AE%B2_12%E5%B2%81%E5%A5%B3%E6%80%A7%E4%BD%93%E8%82%B2%E6%BC%94%E8%AE%B2_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="6382602" type="audio/mpeg" />
         <guid isPermaLink="false">2022-02-12_演讲_12岁女性体育演讲_谷爱凌.mp3</guid>
         <pubDate>Sat, 12 Feb 2022 04:00:00 -0000</pubDate>
         <itunes:duration>6:38</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -369,9 +369,9 @@
 
     <item>
         <title>新闻发布会①首秀</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/AdzjAlkvY4k.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/AdzjAlkvY4k.jpg" />
         <description>谷爱凌 · 冬奥 · 2022-02-09</description>
-        <enclosure url="https://files.catbox.moe/d01u2l.mp3" length="3856266" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-02-09_%E5%86%AC%E5%A5%A5_%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E2%91%A0%E9%A6%96%E7%A7%80_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="3856266" type="audio/mpeg" />
         <guid isPermaLink="false">2022-02-09_冬奥_新闻发布会①首秀_谷爱凌.mp3</guid>
         <pubDate>Wed, 09 Feb 2022 04:00:00 -0000</pubDate>
         <itunes:duration>4:01</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -379,9 +379,9 @@
 
     <item>
         <title>英文访谈</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/iSMv5D1SP7A.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/iSMv5D1SP7A.jpg" />
         <description>谷爱凌 · 访谈 · 2022-01-06</description>
-        <enclosure url="https://files.catbox.moe/5l7f37.mp3" length="19934346" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-01-06_%E8%AE%BF%E8%B0%88_%E8%8B%B1%E6%96%87%E8%AE%BF%E8%B0%88_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="19934346" type="audio/mpeg" />
         <guid isPermaLink="false">2022-01-06_访谈_英文访谈_谷爱凌.mp3</guid>
         <pubDate>Thu, 06 Jan 2022 04:00:00 -0000</pubDate>
         <itunes:duration>20:45</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -389,9 +389,9 @@
 
     <item>
         <title>EverydayEileen④Aspen世锦赛</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/Fx0pR7EFL3U.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/Fx0pR7EFL3U.jpg" />
         <description>谷爱凌 · 纪录片 · 2022-01-05</description>
-        <enclosure url="https://files.catbox.moe/09rc7h.mp3" length="8827914" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2022-01-05_%E7%BA%AA%E5%BD%95%E7%89%87_EverydayEileen%E2%91%A3Aspen%E4%B8%96%E9%94%A6%E8%B5%9B_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="8827914" type="audio/mpeg" />
         <guid isPermaLink="false">2022-01-05_纪录片_EverydayEileen④Aspen世锦赛_谷爱凌.mp3</guid>
         <pubDate>Wed, 05 Jan 2022 04:00:00 -0000</pubDate>
         <itunes:duration>9:11</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -399,9 +399,9 @@
 
     <item>
         <title>EverydayEileen③雪山到T台</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/PGYupOhcy54.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/PGYupOhcy54.jpg" />
         <description>谷爱凌 · 纪录片 · 2021-12-29</description>
-        <enclosure url="https://files.catbox.moe/h0qxa1.mp3" length="9259914" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2021-12-29_%E7%BA%AA%E5%BD%95%E7%89%87_EverydayEileen%E2%91%A2%E9%9B%AA%E5%B1%B1%E5%88%B0T%E5%8F%B0_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="9259914" type="audio/mpeg" />
         <guid isPermaLink="false">2021-12-29_纪录片_EverydayEileen③雪山到T台_谷爱凌.mp3</guid>
         <pubDate>Wed, 29 Dec 2021 04:00:00 -0000</pubDate>
         <itunes:duration>9:38</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -409,9 +409,9 @@
 
     <item>
         <title>EverydayEileen①改变滑雪</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/9AfD_ORAE8I.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/9AfD_ORAE8I.jpg" />
         <description>谷爱凌 · 纪录片 · 2021-12-15</description>
-        <enclosure url="https://files.catbox.moe/1dl6fg.mp3" length="10796298" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2021-12-15_%E7%BA%AA%E5%BD%95%E7%89%87_EverydayEileen%E2%91%A0%E6%94%B9%E5%8F%98%E6%BB%91%E9%9B%AA_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="10796298" type="audio/mpeg" />
         <guid isPermaLink="false">2021-12-15_纪录片_EverydayEileen①改变滑雪_谷爱凌.mp3</guid>
         <pubDate>Wed, 15 Dec 2021 04:00:00 -0000</pubDate>
         <itunes:duration>11:14</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -419,9 +419,9 @@
 
     <item>
         <title>BrunelloCucinelli对话</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/TpR-wvA4gwo.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/TpR-wvA4gwo.jpg" />
         <description>谷爱凌 · 访谈 · 2021-11-05</description>
-        <enclosure url="https://files.catbox.moe/hlwke6.mp3" length="2178954" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2021-11-05_%E8%AE%BF%E8%B0%88_BrunelloCucinelli%E5%AF%B9%E8%AF%9D_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="2178954" type="audio/mpeg" />
         <guid isPermaLink="false">2021-11-05_访谈_BrunelloCucinelli对话_谷爱凌.mp3</guid>
         <pubDate>Fri, 05 Nov 2021 04:00:00 -0000</pubDate>
         <itunes:duration>2:16</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -429,9 +429,9 @@
 
     <item>
         <title>激励中国年轻女性</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/aR8AACQXrx8.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/aR8AACQXrx8.jpg" />
         <description>谷爱凌 · 励志 · 2021-02-08</description>
-        <enclosure url="https://files.catbox.moe/89twvv.mp3" length="2950026" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2021-02-08_%E5%8A%B1%E5%BF%97_%E6%BF%80%E5%8A%B1%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="2950026" type="audio/mpeg" />
         <guid isPermaLink="false">2021-02-08_励志_激励中国年轻女性_谷爱凌.mp3</guid>
         <pubDate>Mon, 08 Feb 2021 04:00:00 -0000</pubDate>
         <itunes:duration>3:04</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
@@ -439,9 +439,9 @@
 
     <item>
         <title>ChairliftQ&amp;AwithEileenGu｜</title>
-        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/kc9_3JoL2Yc.jpg"/>
+        <itunes:image href="https://cdn.jsdelivr.net/gh/Oppos1122/eileen-gu-podcast-2@master/thumbnails/kc9_3JoL2Yc.jpg" />
         <description>谷爱凌 · 其他 · 2019-01-28</description>
-        <enclosure url="https://files.catbox.moe/wnyhpd.mp3" length="2048394" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/Oppos1122/eileen-gu-podcast-2/master/audio/2019-01-28_%E5%85%B6%E4%BB%96_ChairliftQ%26AwithEileenGu%EF%BD%9C_%E8%B0%B7%E7%88%B1%E5%87%8C.mp3" length="2048394" type="audio/mpeg" />
         <guid isPermaLink="false">2019-01-28_其他_ChairliftQ&amp;AwithEileenGu｜_谷爱凌.mp3</guid>
         <pubDate>Mon, 28 Jan 2019 04:00:00 -0000</pubDate>
         <itunes:duration>2:08</itunes:duration>        <itunes:episodeType>full</itunes:episodeType>
